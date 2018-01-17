@@ -1,5 +1,7 @@
 # Spring Batch参考文档中文版
 
+> 本开源书 forked from [Spring Batch参考文档中文版](https://github.com/kimmking/SpringBatchReferenceCN)，作者为 [kimmking](https://github.com/kimmking)，欢迎大家 star 原作者的 [repo](https://github.com/kimmking/SpringBatchReferenceCN)，以便获得最新更新，谢谢！
+
 原作者：Lucas Ward , Dave Syer , Thomas Risberg , Robert Kasanicky , Dan Garrette , Wayne Lund , Michael Minella , Chris Schaefer , Gunnar Hillert
 
 版本号：3.0.1.RELEASE 查看原文请[点击此处](http://docs.spring.io/spring-batch/trunk/reference/html/index.html)。或者 [查看HTML单页面版](http://docs.spring.io/spring-batch/trunk/reference/htmlsingle/index.html)
